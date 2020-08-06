@@ -18,7 +18,7 @@ As per Udacity Data Scientist Nanodegree project Term 2 project to write a Data 
 
 This can can be modified to analyze other data sets other than amsterdam data.
 
-for more information refer to the medium blogpost for this project: https://medium.com/@kmhimanshu00/reasons-why-amsterdam-airbnb-listing-is-expensive-69199219ea46.
+for more information refer to the medium blogpost for this project: https://medium.com/@kmhimanshu00/understanding-amsterdam-city-airbnb-listings-57c2350c5204.
 
 summary of the project
 In this notebook I wanted to analyze the Amsterdam airbnb listings. I used descriptive statistics and Kmean clustering to answer the following questions:
